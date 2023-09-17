@@ -8,7 +8,7 @@ The below business units need to be setup in the target instance
 
 ### Below are the Post-Deployment steps after importing the solution
 Create Teams CS Agent Team, CS Manager Team. These are to be used in setting up the column security profiles in the admin center
-
+![TeamCreation](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/15a3f479-5c7a-49c6-b650-7dd61d1778c6)
 
 ### Assumptions and Key Points
 OOB features are untouched like forms, views, sitemap etc. so that customization is done for the requirements only
