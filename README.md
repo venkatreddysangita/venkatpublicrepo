@@ -17,7 +17,7 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 
 - Need to setup the Sharepoint integration and make sure it is enabled for Contact, Case, and the Followup Entities
 
-- Access Team template creation for folloup entity
+- Access Team template creation for followup entity
   ![AccessTeamTemplateCreation](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/1982a434-c6bc-4017-9c55-1d7dfe9166b6)
 
 
