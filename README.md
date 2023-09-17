@@ -22,6 +22,7 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 
 - Access Team template need to be configured at the followup entity form and publish
 
+![AccessTeamSetuponForm](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/03ca65b5-cd14-42f8-946a-5d8203c720b2)
 
 ### Assumptions and Key Points
 - OOB features are untouched like forms, views, sitemap etc. so that customization is done for the requirements only
