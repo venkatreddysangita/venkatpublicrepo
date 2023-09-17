@@ -15,6 +15,7 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 ![ColumnSecurityProfileSample](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/62d3a3d4-1d69-4e67-8230-67734967bea1)
 
 
+Need to setup the Sharepoint integration and make sure it is enabled for Contact, Case, and the Followup Entities
 
 
 ### Assumptions and Key Points
@@ -22,6 +23,8 @@ OOB features are untouched like forms, views, sitemap etc. so that customization
 The Solution needs to be tested by assigning the different security roles to users
 Users should be have the 'Basic User', 'Customer Service app access' security roles in addition to the custom security roles for testing
 Customisation of the 'Resolve' button is done only at the form level and not the home page of Case Entity
+I am unable to setup the Sharepoint site on the trial, always comes back with invalid url.
+Sharepoint permission can be managed on the security role level and hence satisfy the requirement of followup entity having the documents access
 
 Let me know if you want to test in the trial instance that i have created, i can add a new user account for you !
 Have to provide a quick demo in the trial instance !
