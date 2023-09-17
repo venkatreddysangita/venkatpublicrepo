@@ -24,6 +24,9 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 
 ![AccessTeamSetuponForm](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/03ca65b5-cd14-42f8-946a-5d8203c720b2)
 
+
+- Setup 2 teams in the environment = Confidential Team and Escalation Team. Add members for test purposes.
+
 ### Assumptions and Key Points
 - OOB features are untouched like forms, views, sitemap etc. so that customization is done for the requirements only
 - The Solution needs to be tested by assigning the different security roles to users
