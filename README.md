@@ -15,7 +15,10 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 ![ColumnSecurityProfileSample](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/62d3a3d4-1d69-4e67-8230-67734967bea1)
 
 
-Need to setup the Sharepoint integration and make sure it is enabled for Contact, Case, and the Followup Entities
+- Need to setup the Sharepoint integration and make sure it is enabled for Contact, Case, and the Followup Entities
+
+- Access Team template creation for folloup entity
+  ![AccessTeamTemplateCreation](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/1982a434-c6bc-4017-9c55-1d7dfe9166b6)
 
 
 ### Assumptions and Key Points
