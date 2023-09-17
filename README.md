@@ -24,3 +24,4 @@ Users should be have the 'Basic User', 'Customer Service app access' security ro
 Customisation of the 'Resolve' button is done only at the form level and not the home page of Case Entity
 
 Let me know if you want to test in the trial instance that i have created, i can add a new user account for you !
+Have to provide a quick demo in the trial instance !
