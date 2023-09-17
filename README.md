@@ -6,10 +6,14 @@ The below business units need to be setup in the target instance
 
 
 
+
 ### Below are the Post-Deployment steps after importing the solution
 Create Teams CS Agent Team, CS Manager Team. All users to the team for the testing purpose. These are to be used in setting up the column security profiles in the admin center
 
 ![TeamCreation](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/15a3f479-5c7a-49c6-b650-7dd61d1778c6)
+
+![ColumnSecurityProfileSample](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/62d3a3d4-1d69-4e67-8230-67734967bea1)
+
 
 
 
