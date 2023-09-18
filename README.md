@@ -15,7 +15,7 @@ Solution Componenets preview is below,
 
 
 ### Below are the Post-Deployment steps after importing the solution
-Create Teams CS Agent Team, CS Manager Team. All users to the team for the testing purpose. These are to be used in setting up the column security profiles in the admin center
+Create Teams CS Agent Team, CS Manager Team. Add users to the team as needed for the testing purpose. These teams will be used in setting up the column security profiles in the admin center
 
 ![TeamCreation](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/15a3f479-5c7a-49c6-b650-7dd61d1778c6)
 
