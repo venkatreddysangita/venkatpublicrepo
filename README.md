@@ -5,6 +5,13 @@ The below business units need to be setup in the target instance
 ![Business Units](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/e14bbceb-747f-475d-9489-fa8bb71225af)
 
 
+### Deployment Steps
+
+Import the managed solution 'TFLDevSprint_1_0_0_0_managed.zip' or unmanaged solution 'TFLDevSprint_1_0_0_0.zip' for Dev environments
+
+Solution Componenets preview is below,
+
+![SolutionComponentsPreview](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/d9195482-8648-47a0-a7a9-ccd195e150fb)
 
 
 ### Below are the Post-Deployment steps after importing the solution
