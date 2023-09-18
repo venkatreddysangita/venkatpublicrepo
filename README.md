@@ -36,7 +36,7 @@ Followup Entity Access team template id needs to be updated on the cloud flow (C
 
 Power Automate 'Followup Email Notification' - Since the trial instance cannot make a outlook connection, this is a draft power automate flow to be configured
 
-
+![EmailNotification](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/526e8676-91f1-4cce-ad24-65ce338c80f4)
 
 
 
