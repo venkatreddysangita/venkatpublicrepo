@@ -4,6 +4,8 @@
 The below business units need to be setup in the target instance
 ![Business Units](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/e14bbceb-747f-475d-9489-fa8bb71225af)
 
+The Business Unit Hierarchy ensures the users work on the records in their contact centre areas
+
 
 ### Deployment Steps
 
@@ -50,10 +52,10 @@ Power Automate 'Followup Email Notification' = Since the trial instance cannot m
 ### Assumptions and Key Points
 - OOB features are untouched like forms, views, sitemap etc. so that customization is done for the requirements only
 - The Solution needs to be tested by assigning the different security roles to users
-- Users should be have the 'Basic User', 'Customer Service app access' security roles in addition to the custom security roles for testing
+- All Users should have the 'Basic User', 'Customer Service app access' security roles in addition to the custom security roles for testing purpose
 - Customisation of the 'Resolve' button is done only at the form level and not the home page of Case Entity
-- I am unable to setup the Sharepoint site on the trial, always comes back with invalid url.
-- Sharepoint permission can be managed on the security role level and hence satisfy the requirement of followup entity having the documents access
+- I am unable to setup the Sharepoint site on the trial instance, always comes back with invalid url.
+- Sharepoint permission can be managed on the security role level and hence it satisfies the requirement of followup entity having the documents access
 - Have used Power automate cloud flows instead of plugin for the creation of followup entity records to avoid unnecessary coding. The same scenario can be done using plugin
 - During testing, please note the security roles assigned to a user directly and inherited through the team's security roles have an affect on the access. Example - USer A has CS Agent role and also part of Escalation Team
 
