@@ -32,16 +32,16 @@ Create Teams CS Agent Team, CS Manager Team. Add users to the team as needed for
 ![AccessTeamSetuponForm](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/03ca65b5-cd14-42f8-946a-5d8203c720b2)
 
 
-- Setup 2 teams in the environment = Confidential Team and Escalation Team. Add members for test purposes.
+- Create 2 new teams in the environment = 'Confidential Team' and 'Escalation Team'. Add team members for test purposes.
 - Confidential Team should be given the 'CS Confidential Role' security role
 - Escalation Team should be given the 'CS Escalation Role' security role
 
 
-Followup Entity Access team template id needs to be updated on the cloud flow (Confidential Cases)
+Followup Entity Access team template id needs to be configured on the cloud flow "Confidential Cases"
 
 
 
-Power Automate 'Followup Email Notification' - Since the trial instance cannot make a outlook connection, this is a draft power automate flow to be configured
+Power Automate 'Followup Email Notification' = Since the trial instance cannot make a outlook connection, this is a draft power automate flow to be configured
 
 ![EmailNotification](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/526e8676-91f1-4cce-ad24-65ce338c80f4)
 
