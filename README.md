@@ -7,7 +7,7 @@ The below business units need to be setup in the target instance
 
 ### Deployment Steps
 
-Import the managed solution 'TFLDevSprint_1_0_0_0_managed.zip' or unmanaged solution 'TFLDevSprint_1_0_0_0.zip' for Dev environments
+Import the managed solution 'TFLDevSprint_1_0_0_0_managed.zip' into the managed environment. Import unmanaged solution 'TFLDevSprint_1_0_0_0.zip' only for Dev environments
 
 Solution Componenets preview is below,
 
