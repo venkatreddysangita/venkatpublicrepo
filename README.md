@@ -40,6 +40,7 @@ Followup Entity Access team template id needs to be updated on the cloud flow (C
 - I am unable to setup the Sharepoint site on the trial, always comes back with invalid url.
 - Sharepoint permission can be managed on the security role level and hence satisfy the requirement of followup entity having the documents access
 - Have used Power automate cloud flows instead of plugin for the creation of followup entity records to avoid unnecessary coding. The same scenario can be done using plugin
+- During testing, please note the security roles assigned to a user directly and inherited through the team's security roles have an affect on the access. Example - USer A has CS Agent role and also part of Escalation Team
 
 Let me know if you want to test in the trial instance that i have created, i can add a new user account for you !
 Have to provide a quick demo in the trial instance !
