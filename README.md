@@ -26,6 +26,8 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 
 
 - Setup 2 teams in the environment = Confidential Team and Escalation Team. Add members for test purposes.
+- Confidential Team should be given the 'CS Confidential Role' security role
+- Escalation Team should be given the 'CS Escalation Role' security role
 
 ### Assumptions and Key Points
 - OOB features are untouched like forms, views, sitemap etc. so that customization is done for the requirements only
