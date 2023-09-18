@@ -32,6 +32,14 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 
 Followup Entity Access team template id needs to be updated on the cloud flow (Confidential Cases)
 
+
+
+Power Automate 'Followup Email Notification' - Since the trial instance cannot make a outlook connection, this is a draft power automate flow to be configured
+
+
+
+
+
 ### Assumptions and Key Points
 - OOB features are untouched like forms, views, sitemap etc. so that customization is done for the requirements only
 - The Solution needs to be tested by assigning the different security roles to users
