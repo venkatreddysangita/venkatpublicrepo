@@ -29,6 +29,9 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 - Confidential Team should be given the 'CS Confidential Role' security role
 - Escalation Team should be given the 'CS Escalation Role' security role
 
+
+Followup Entity Access team template id needs to be updated on the cloud flow (Confidential Cases)
+
 ### Assumptions and Key Points
 - OOB features are untouched like forms, views, sitemap etc. so that customization is done for the requirements only
 - The Solution needs to be tested by assigning the different security roles to users
@@ -36,6 +39,7 @@ Create Teams CS Agent Team, CS Manager Team. All users to the team for the testi
 - Customisation of the 'Resolve' button is done only at the form level and not the home page of Case Entity
 - I am unable to setup the Sharepoint site on the trial, always comes back with invalid url.
 - Sharepoint permission can be managed on the security role level and hence satisfy the requirement of followup entity having the documents access
+- Have used Power automate cloud flows instead of plugin for the creation of followup entity records to avoid unnecessary coding. The same scenario can be done using plugin
 
 Let me know if you want to test in the trial instance that i have created, i can add a new user account for you !
 Have to provide a quick demo in the trial instance !
