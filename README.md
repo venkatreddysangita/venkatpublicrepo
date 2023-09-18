@@ -22,9 +22,9 @@ Create Teams CS Agent Team, CS Manager Team. Add users to the team as needed for
 ![ColumnSecurityProfileSample](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/62d3a3d4-1d69-4e67-8230-67734967bea1)
 
 
-- Need to setup the Sharepoint integration and make sure it is enabled for Contact, Case, and the Followup Entities
+- Need to setup the Sharepoint integration and make sure it is enabled for Contact, Case, and the Followup Entities. Trial instance did not allow me to create a sharepoint site in the environment. If the target instance has a sharepoint site, that can be used. The necessary security permissions for sharepoint site and document location are configured in the security roles
 
-- Access Team template creation for followup entity
+- Access Team template to be created for followup entity
   ![AccessTeamTemplateCreation](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/1982a434-c6bc-4017-9c55-1d7dfe9166b6)
 
 - Access Team template need to be configured at the followup entity form and publish
