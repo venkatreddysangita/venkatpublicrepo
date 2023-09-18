@@ -59,6 +59,8 @@ Power Automate 'Followup Email Notification' = Since the trial instance cannot m
 - Have used Power automate cloud flows instead of plugin for the creation of followup entity records to avoid unnecessary coding. The same scenario can be done using plugin
 - During testing, please note the security roles assigned to a user directly and inherited through the team's security roles have an affect on the access. Example - USer A has CS Agent role and also part of Escalation Team
 - All the requirements can be tested by assigning the relevant security roles
-- Below is the mapping of business roles with Security Roles and Teams
+- Below is the mapping of business roles with Security Roles and Teams in Dynamics. This helps in testing all the requirements
+
+![RoleMapping_Testing](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/2e52db9b-d263-4e48-a6ba-1dedb8bb9ce8)
 
 Let me know if you want to test in the trial instance that i have created, i can add a new user account for you !
