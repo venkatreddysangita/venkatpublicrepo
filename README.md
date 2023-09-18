@@ -27,7 +27,7 @@ Create Teams CS Agent Team, CS Manager Team. Add users to the team as needed for
 - Access Team template to be created for followup entity
   ![AccessTeamTemplateCreation](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/1982a434-c6bc-4017-9c55-1d7dfe9166b6)
 
-- Access Team template need to be configured at the followup entity form and publish
+- Access Team template need to be configured for the followup entity form. Once configured, please publish the solution
 
 ![AccessTeamSetuponForm](https://github.com/venkatreddysangita/venkatpublicrepo/assets/145289091/03ca65b5-cd14-42f8-946a-5d8203c720b2)
 
