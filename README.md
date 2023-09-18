@@ -51,4 +51,3 @@ Power Automate 'Followup Email Notification' - Since the trial instance cannot m
 - During testing, please note the security roles assigned to a user directly and inherited through the team's security roles have an affect on the access. Example - USer A has CS Agent role and also part of Escalation Team
 
 Let me know if you want to test in the trial instance that i have created, i can add a new user account for you !
-Have to provide a quick demo in the trial instance !
